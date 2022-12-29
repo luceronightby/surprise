@@ -1,0 +1,56 @@
+body{
+    background-image: url(img/style.gif);
+    background-size: cover;
+
+}
+.titulo{
+font-family: 'Denk One';
+font-size: 26px;
+background-color: skyblue;
+color: blue;
+}
+.subtitulo{
+font-family: 'Freckle Face';
+font-size: 20px;
+background-color: rgb(0, 162, 255);
+color: indigo;
+}
+.subtitulo2{
+    font-family: 'Freckle Face';
+    font-size: 20px;
+    background-color: yellow;
+    color: blue;
+}
+.subtitulo3{
+    font-family: 'Freckle Face';
+    font-size: 12px;
+    background-color: orangered;
+}
+.selecto{
+    font-family: 'Aclonica';
+    font-size: 22px;
+    color: orangered;
+}
+.parrafo{
+    font-family:'Mansalva'; 
+    font-size: 17px;
+    color: yellow;
+}
+.parrafo2{
+    font-family:'Mansalva'; 
+    font-size: 17px;
+    color: palevioletred;
+}
+.parrafo3{
+    font-family:'Mansalva'; 
+    font-size: 17px;
+    color: greenyellow;
+}
+.encabezado{
+    margin: 10px;
+    border: 10px double violet;
+    display: inline-block;
+    background-color: goldenrod;
+    width: 1450px;
+    height: 90px;
+}
